@@ -10,7 +10,6 @@ weights3 = [-0.26, -0.27, 0.17, 0.87]
 bias1 = 2
 bias2 = 3
 bias3 = 0.5
-#bias = neuron
 #3 neurons with 4 inputs each
 #since 4 inputs also 4 weights in each weight, 3 weights
 
