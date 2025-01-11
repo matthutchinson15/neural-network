@@ -8,6 +8,7 @@ p5. ReLU
 Sigmoid
 Linear
 p8. Softmax
+Calcuclating loss with categorical cross entropy
 Optimization
 Back propagation
 numpy
